@@ -13,4 +13,5 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
+// Ignore me, just testin' Windows
 reportWebVitals();
